@@ -1,0 +1,5 @@
+overlay(star(40, "solid", "yellow"),
+  overlay(star(90,"solid", "gold"),
+    overlay(star(80, "solid", "gold"),
+      overlay(circle(60, "solid", "dark-blue"),
+          (circle(90, "solid", "navy"))))))
